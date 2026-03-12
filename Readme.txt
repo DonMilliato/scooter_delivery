@@ -14,8 +14,8 @@ Technologies Used:
 How to Run:
 1. Install XAMPP
 2. Start Apache and MySQL
-3. Import the database from /database/clinic.sql
-4. Open http://localhost/clinic-system
+3. Import the database from /database/kasi_courier
+4. Open http://localhost/kasi_courier/index.html
 
 Created By:
 Mokopa Technologies
